@@ -5,6 +5,8 @@ A new Flutter project.
 # Design
 https://dribbble.com/shots/15357322-Bakery-Shop?utm_source=Clipboard_Shot&utm_campaign=michellesetiyanti&utm_content=Bakery%20Shop&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=michellesetiyanti&utm_content=Bakery%20Shop&utm_medium=Social_Share
 
+# Demo
+https://github.com/user-attachments/assets/bdd67101-c646-4798-be74-175911a18213
 ## Getting Started
 
 This project is a starting point for a Flutter application.
